@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[site](http://www.tiagoporto.com/) - [linkedin](http://br.linkedin.com/in/tiagoporto) - [speakerdeck](https://speakerdeck.com/tiagoporto) - [instagram](https://www.instagram.com/beer_or_bust/)
+[website](http://www.tiagoporto.com/) - [linkedin](http://br.linkedin.com/in/tiagoporto) - [speakerdeck](https://speakerdeck.com/tiagoporto) - [instagram](https://www.instagram.com/beer_or_bust/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tiagoporto.tiagoporto)
+
 
 <!--
 **tiagoporto/tiagoporto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
