@@ -1,6 +1,6 @@
 ### Hi there 🍻
 
-[website](http://www.tiagoporto.com/) - [linkedin](http://br.linkedin.com/in/tiagoporto) - [speakerdeck](https://speakerdeck.com/tiagoporto) - [instagram](https://www.instagram.com/beer_or_bust/)
+[website](http://www.tiagoporto.com/) - [linkedin](www.linkedin.com/in/tiagoporto) - [speakerdeck](https://speakerdeck.com/tiagoporto) - [instagram](https://www.instagram.com/beer_or_bust/)
 
 
 
