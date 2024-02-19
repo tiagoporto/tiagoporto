@@ -25,7 +25,7 @@ Open-source contributor. ❤️
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 -->
 
-![Tiago Porto's github stats](https://github-readme-stats.vercel.app/api?username=tiagoporto&show_icons=true&theme=dracula)
+![Tiago Porto's github stats](https://github-readme-stats.vercel.app/api?username=tiagoporto&show_icons=true)
 
 
 ## Follow me
