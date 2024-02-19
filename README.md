@@ -10,7 +10,7 @@ Open-source contributor. ❤️
 
 
 
-[![tiagoporto.com](https://img.shields.io/badge/tiagoporto.com-000?style=for-the-badge)](http://www.tiagoporto.com)
+[![tiagoporto.com](https://img.shields.io/badge/tiagoporto.com-000?style=for-the-badge)](https://www.tiagoporto.com)
 [![github](https://img.shields.io/badge/Github-1F2328?style=for-the-badge&logo=github&logoColor=white)](https://tiagoporto.github.io)
 [![NPM](https://img.shields.io/badge/npm-CB0001?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~tiagoporto)
 [![speakerdeck](https://img.shields.io/badge/speakerdeck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white)](https://speakerdeck.com/tiagoporto)
@@ -30,7 +30,7 @@ Open-source contributor. ❤️
 
 ## Follow me
 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/tiagoporto)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoporto)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beer_or_bust)
 
 
