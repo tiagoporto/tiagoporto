@@ -28,10 +28,6 @@ Open-source contributor. ❤️
 ![Tiago Porto's github stats](https://github-readme-stats.vercel.app/api?username=tiagoporto&show_icons=true)
 
 
-## Follow me
-
-[![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoporto)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beer_or_bust)
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tiagoporto&style=for-the-badge" /></p>
